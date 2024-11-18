@@ -1,0 +1,27 @@
+Quick Reference: Student Projects
+Overview
+
+The primary objective for MSSA students is to become proficient in the technical skills taught in the classroom. Secondarily it is recommended students begin building their own library or portfolio of personal projects during the MSSA program. This library of scripts or code should be stored in GitHub, which will serve as an accessible repository. 
+Student projects can range from a simple, partially developed, application or PowerShell script automating administration tasks to a fully functioning application or complete automated administrative solution. 
+
+Benefits of Student Projects
+•	Strengthen technical skills learned in class, labs, and assignments through the application of learned skills to create your own solutions. 
+•	Expand Git and GitHub skills by applying to real world scenarios.
+•	Improve interview success by sharing personal projects that demonstrate the application of learned technical skills. Benefit from the advantage of reviewing your own code or scripts in the interview. 
+•	Showcase your work and solutions. 
+
+Student Project Guidance
+
+Students should start building their personal library early in the program, so they have material for interviews. Students are solely responsible for their own ideas and developing solutions. 
+•	Start by expanding on existing labs and assignments.
+•	Select topics or subject areas they are passionate about. 
+•	Collaborate with fellow students on ideas, challenges, and solutions. 
+•	Have fellow students review code/scripts or consult with your instructor on ideas and overcoming barriers. 
+•	Students should have a thorough understanding of their solution and the supporting code/scripts so they can easily showcase and explain how and why they were developed in an interview. 
+•	Solutions do not need to be complete, end-to-end, applications. They do not have the time. Instead, they should focus on building out parts of an application or an automated solution.
+
+Example Project Ideas 
+CAD	SCA
+Create an application utilizing various functional capabilities such as classes, methods, inheritance, encapsulation, arrays, etc.  	Create solutions automating Windows Server or Azure deployments, operations, and administration tasks or workloads using PowerShell scripting language.
+Using GitHub
+GitHub is a development platform that enables you to host and review code, manage projects, and build software. Git is a source control tool. Git is not just for software developers, but also for teams that develop automation scripts, write documentation, and collaborate on other work.
