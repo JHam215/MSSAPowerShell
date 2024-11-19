@@ -81,3 +81,5 @@ Function Get-FileMetaData {
         $shell = $null
     }
 }
+
+ Get-FileMetaData "C:\photoedit\DSC_3848.JPG"
