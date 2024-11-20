@@ -1,3 +1,4 @@
+#Credit Doug Maurer source https://stackoverflow.com/questions/65414088/efficient-script-to-get-all-extended-file-properties
 Function Get-FileMetaData {
     [cmdletbinding()]
     Param
@@ -83,3 +84,4 @@ Function Get-FileMetaData {
 }
 
  Get-FileMetaData "C:\photoedit\DSC_3848.JPG"
+  Get-FileMetaData "C:\photoedit"
